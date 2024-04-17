@@ -1,2 +1,3 @@
-# landsat_aq_ref
-processing landsat 8 and 9 aquatic reflectanc products
+# ocean remote sensing tools
+- function for pulling PACE OCI Level 2 netCDF files into xarray
+- processing landsat 8 and 9 aquatic reflectance products
